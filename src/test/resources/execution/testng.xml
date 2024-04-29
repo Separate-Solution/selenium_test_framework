@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Framework Test Suite">
+    <listeners>
+        <listener class-name="com.o2htechnology.listeners.Listener"/>
+        <listener class-name="com.o2htechnology.rerun_test.AnnotationTransformer"/>
+    </listeners>
+    <test name="sanity Test">
+        <!--        enter the test case classes you want to execute below-->
+        <classes>
+<!--            <class name="com.automation_framework.test.pages.login.LoginTest">-->
+<!--                <methods>-->
+<!--                    <include name="testUserIsOnLoginPage"/>-->
+<!--                    <include name="testLoginTitle"/>-->
+<!--                    <include name="testUnsuccessfulLogin"/>-->
+<!--                    <include name="testSuccessfulLogin"/>-->
+<!--                </methods>-->
+<!--            </class>-->
+        </classes>
+    </test>
+</suite>

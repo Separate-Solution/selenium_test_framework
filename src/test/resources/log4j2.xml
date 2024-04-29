@@ -1,0 +1,57 @@
+<Configuration name="Log4j2Config" status="ERROR">
+    <Appenders>
+        <SystemPropertyArbiter propertyName="environment" propertyValue="local">
+            <Console name="LocalConsole" target="SYSTEM_OUT">
+                <PatternLayout pattern="%highlight{%d{HH:mm:ss} [ %-5level ] : %msg%n}{FATAL=bright_red blink, ERROR=red, WARN=bright_yellow, INFO=bright_white, DEBUG=bright_cyan, TRACE=bright_blue}"/>
+            </Console>
+            <File name="LocalLogFile" fileName="test-logs/automation_framework_local.log" append="true">
+                <PatternLayout pattern="%highlight{%d{HH:mm:ss} [ %-5level ] : %msg%n}{FATAL=bright_red blink, ERROR=red, WARN=bright_yellow, INFO=bright_white, DEBUG=bright_cyan, TRACE=bright_blue}"/>
+            </File>
+        </SystemPropertyArbiter>
+        <SystemPropertyArbiter propertyName="environment" propertyValue="staging">
+            <Console name="StagingConsole" target="SYSTEM_OUT">
+                <PatternLayout pattern="%highlight{%d{HH:mm:ss} [ %-5level ] : %msg%n}{FATAL=bright_red blink, ERROR=red, WARN=bright_yellow, INFO=bright_white, DEBUG=bright_cyan, TRACE=bright_blue}"/>
+            </Console>
+            <File name="StagingLogFile" fileName="test-logs/automation_framework_staging.log" append="true">
+                <PatternLayout pattern="%highlight{%d{HH:mm:ss} [ %-5level ] : %msg%n}{FATAL=bright_red blink, ERROR=red, WARN=bright_yellow, INFO=bright_white, DEBUG=bright_cyan, TRACE=bright_blue}"/>
+            </File>
+        </SystemPropertyArbiter>
+        <SystemPropertyArbiter propertyName="environment" propertyValue="live">
+            <Console name="LiveConsole" target="SYSTEM_OUT">
+                <PatternLayout pattern="%highlight{%d{HH:mm:ss} [ %-5level ] : %msg%n}{FATAL=bright_red blink, ERROR=red, WARN=bright_yellow, INFO=bright_white, DEBUG=bright_cyan, TRACE=bright_blue}"/>
+            </Console>
+            <File name="LiveLogFile" fileName="test-logs/automation_framework_live.log" append="true">
+                <PatternLayout pattern="%highlight{%d{HH:mm:ss} [ %-5level ] : %msg%n}{FATAL=bright_red blink, ERROR=red, WARN=bright_yellow, INFO=bright_white, DEBUG=bright_cyan, TRACE=bright_blue}"/>
+            </File>
+        </SystemPropertyArbiter>
+    </Appenders>
+    <Loggers>
+        <SystemPropertyArbiter propertyName="environment" propertyValue="local">
+            <Logger name="localLogs" additivity="false">
+                <AppenderRef ref="LocalConsole" level="debug"/>
+            </Logger>
+            <Root level="debug">
+                <AppenderRef ref="LocalConsole"/>
+                <AppenderRef ref="LocalLogFile"/>
+            </Root>
+        </SystemPropertyArbiter>
+        <SystemPropertyArbiter propertyName="environment" propertyValue="staging">
+            <Logger name="stagingLogs" additivity="false">
+                <AppenderRef ref="StagingConsole" level="info"/>
+            </Logger>
+            <Root level="info">
+                <AppenderRef ref="StagingConsole"/>
+                <AppenderRef ref="StagingLogFile"/>
+            </Root>
+        </SystemPropertyArbiter>
+        <SystemPropertyArbiter propertyName="environment" propertyValue="live">
+            <Logger name="liveLogs" additivity="false">
+                <AppenderRef ref="LiveConsole" level="error"/>
+            </Logger>
+            <Root level="error">
+                <AppenderRef ref="LiveConsole"/>
+                <AppenderRef ref="LiveLogFile"/>
+            </Root>
+        </SystemPropertyArbiter>
+    </Loggers>
+</Configuration>

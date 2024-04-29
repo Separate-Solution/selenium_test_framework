@@ -1,0 +1,505 @@
+[96m14:31:56 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/java/test_cases/execution/testng.xml"
+[m[96m14:32:12 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/java/test_cases/execution/testng.xml"
+[m[96m14:32:58 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/java/test_cases/execution/testng.xml"
+[m[96m14:35:19 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/java/test_cases/execution/testng.xml"
+[m[96m14:35:43 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/java/test_cases/execution/testng.xml"
+[m[96m14:39:16 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/java/test_cases/execution/testng.xml"
+[m[96m14:40:17 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/execution/testng.xml"
+[m[97m15:01:10 [ INFO  ] : Starting session...
+[m[97m15:01:19 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m15:01:19 [ INFO  ] : ChromeDriver: chrome on linux (74f2e64b745aab9f07e3a69b1e69ad85) initialized
+[m[97m15:01:19 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m15:01:19 [ INFO  ] : Session started!
+[m[97m15:01:22 [ INFO  ] : Ending session...
+[m[97m15:01:22 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (74f2e64b745aab9f07e3a69b1e69ad85)
+[m[97m15:01:22 [ INFO  ] : Closed windows - 1
+[m[97m15:01:22 [ INFO  ] : Session ended!
+[m[97m15:01:22 [ INFO  ] : Starting session...
+[m[97m15:01:23 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m15:01:23 [ INFO  ] : ChromeDriver: chrome on linux (343a103acb668d6b06f0d4a145e908b9) initialized
+[m[97m15:01:23 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m15:01:23 [ INFO  ] : Session started!
+[m[97m15:01:24 [ INFO  ] : Ending session...
+[m[97m15:01:24 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (343a103acb668d6b06f0d4a145e908b9)
+[m[97m15:01:24 [ INFO  ] : Closed windows - 1
+[m[97m15:01:24 [ INFO  ] : Session ended!
+[m[97m15:01:24 [ INFO  ] : Starting session...
+[m[97m15:01:25 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m15:01:25 [ INFO  ] : ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa) initialized
+[m[97m15:01:25 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m15:01:25 [ INFO  ] : Session started!
+[m[93m15:01:26 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: email]
+[m[97m15:01:26 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: email]
+[m[96m15:01:26 [ DEBUG ] : [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: email]Field has been cleared
+[m[93m15:01:26 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: email]
+[m[97m15:01:26 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: email]
+[m[96m15:01:26 [ DEBUG ] : Username entered in the field : 
+[m[96m15:01:26 [ DEBUG ] : Username entered in the field : 
+[m[93m15:01:26 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: password]
+[m[97m15:01:26 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: password]
+[m[96m15:01:26 [ DEBUG ] : [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: password]Field has been cleared
+[m[93m15:01:26 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: password]
+[m[97m15:01:26 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> name: password]
+[m[96m15:01:26 [ DEBUG ] : Password entered in the field : 
+[m[96m15:01:26 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:26 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> xpath: //input[@value='Login']]
+[m[97m15:01:26 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)] -> xpath: //input[@value='Login']]
+[m[96m15:01:27 [ DEBUG ] : Clicked on the Login button
+[m[96m15:01:27 [ DEBUG ] : Clicked on the Login button
+[m[96m15:01:27 [ DEBUG ] : Login error message captured : 
+[m[97m15:01:27 [ INFO  ] : Ending session...
+[m[97m15:01:27 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (14d36d3f8365651f2399e299703b7dfa)
+[m[97m15:01:27 [ INFO  ] : Closed windows - 1
+[m[97m15:01:27 [ INFO  ] : Session ended!
+[m[97m15:01:27 [ INFO  ] : Starting session...
+[m[97m15:01:28 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m15:01:28 [ INFO  ] : ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22) initialized
+[m[97m15:01:28 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m15:01:28 [ INFO  ] : Session started!
+[m[93m15:01:29 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: email]
+[m[97m15:01:29 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: email]
+[m[96m15:01:29 [ DEBUG ] : [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: email]Field has been cleared
+[m[93m15:01:29 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: email]
+[m[97m15:01:29 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: email]
+[m[96m15:01:29 [ DEBUG ] : Username entered in the field : 
+[m[96m15:01:29 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:29 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: password]
+[m[97m15:01:29 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: password]
+[m[96m15:01:29 [ DEBUG ] : [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: password]Field has been cleared
+[m[93m15:01:29 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: password]
+[m[97m15:01:29 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> name: password]
+[m[96m15:01:30 [ DEBUG ] : Password entered in the field : 
+[m[96m15:01:30 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:30 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> xpath: //input[@value='Login']]
+[m[97m15:01:30 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)] -> xpath: //input[@value='Login']]
+[m[96m15:01:30 [ DEBUG ] : Clicked on the Login button
+[m[96m15:01:30 [ DEBUG ] : Clicked on the Login button
+[m[97m15:01:30 [ INFO  ] : Ending session...
+[m[97m15:01:30 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (868254e340907561f88d4e45f09b0c22)
+[m[97m15:01:30 [ INFO  ] : Closed windows - 1
+[m[97m15:01:30 [ INFO  ] : Session ended!
+[m[97m15:01:30 [ INFO  ] : Starting session...
+[m[97m15:01:31 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m15:01:31 [ INFO  ] : ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410) initialized
+[m[97m15:01:31 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m15:01:31 [ INFO  ] : Session started!
+[m[93m15:01:32 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: email]
+[m[97m15:01:32 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: email]
+[m[96m15:01:32 [ DEBUG ] : [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: email]Field has been cleared
+[m[93m15:01:32 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: email]
+[m[97m15:01:32 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: email]
+[m[96m15:01:32 [ DEBUG ] : Username entered in the field : 
+[m[96m15:01:32 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:32 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: password]
+[m[97m15:01:32 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: password]
+[m[96m15:01:32 [ DEBUG ] : [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: password]Field has been cleared
+[m[93m15:01:32 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: password]
+[m[97m15:01:32 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> name: password]
+[m[96m15:01:32 [ DEBUG ] : Password entered in the field : 
+[m[96m15:01:32 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:32 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> xpath: //input[@value='Login']]
+[m[97m15:01:32 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)] -> xpath: //input[@value='Login']]
+[m[96m15:01:33 [ DEBUG ] : Clicked on the Login button
+[m[96m15:01:33 [ DEBUG ] : Clicked on the Login button
+[m[93m15:01:33 [ WARN  ] : Waiting for element to be visible - Proxy element for: DefaultElementLocator 'By.xpath: //ul[@class='sidebar-menu']/li//span[text()='o2h Team Management']'
+[m[97m15:01:33 [ INFO  ] : Ending session...
+[m[97m15:01:33 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (3ebf0d945271e37b858f100f1e6f4410)
+[m[97m15:01:33 [ INFO  ] : Closed windows - 1
+[m[97m15:01:33 [ INFO  ] : Session ended!
+[m[97m15:01:33 [ INFO  ] : Starting session...
+[m[97m15:01:34 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m15:01:34 [ INFO  ] : ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87) initialized
+[m[97m15:01:34 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m15:01:34 [ INFO  ] : Session started!
+[m[93m15:01:35 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: email]
+[m[97m15:01:35 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: email]
+[m[96m15:01:35 [ DEBUG ] : [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: email]Field has been cleared
+[m[93m15:01:35 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: email]
+[m[97m15:01:35 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: email]
+[m[96m15:01:35 [ DEBUG ] : Username entered in the field : 
+[m[96m15:01:35 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:35 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: password]
+[m[97m15:01:35 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: password]
+[m[96m15:01:35 [ DEBUG ] : [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: password]Field has been cleared
+[m[93m15:01:35 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: password]
+[m[97m15:01:35 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> name: password]
+[m[96m15:01:35 [ DEBUG ] : Password entered in the field : 
+[m[96m15:01:35 [ DEBUG ] : Password entered in the field : 
+[m[93m15:01:35 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> xpath: //input[@value='Login']]
+[m[97m15:01:35 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)] -> xpath: //input[@value='Login']]
+[m[96m15:01:36 [ DEBUG ] : Clicked on the Login button
+[m[96m15:01:36 [ DEBUG ] : Clicked on the Login button
+[m[97m15:01:36 [ INFO  ] : Ending session...
+[m[97m15:01:36 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (03edb812ed49ad20fa2cfd47d88c3a87)
+[m[97m15:01:36 [ INFO  ] : Closed windows - 1
+[m[97m15:01:36 [ INFO  ] : Session ended!
+[m[97m16:04:21 [ INFO  ] : Starting session...
+[m[97m16:04:31 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m16:04:31 [ INFO  ] : ChromeDriver: chrome on linux (65d164545d1a406734970e869de18fe6) initialized
+[m[97m16:04:31 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m16:04:31 [ INFO  ] : Session started!
+[m[97m16:04:32 [ INFO  ] : Ending session...
+[m[97m16:04:32 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (65d164545d1a406734970e869de18fe6)
+[m[97m16:04:32 [ INFO  ] : Closed windows - 1
+[m[97m16:04:32 [ INFO  ] : Session ended!
+[m[97m16:04:32 [ INFO  ] : Starting session...
+[m[97m16:04:33 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m16:04:33 [ INFO  ] : ChromeDriver: chrome on linux (5dfd68c8833a6e32bf03899c2f87d111) initialized
+[m[97m16:04:33 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m16:04:33 [ INFO  ] : Session started!
+[m[97m16:04:34 [ INFO  ] : Ending session...
+[m[97m16:04:34 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (5dfd68c8833a6e32bf03899c2f87d111)
+[m[97m16:04:34 [ INFO  ] : Closed windows - 1
+[m[97m16:04:34 [ INFO  ] : Session ended!
+[m[97m16:04:34 [ INFO  ] : Starting session...
+[m[97m16:04:35 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m16:04:35 [ INFO  ] : ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8) initialized
+[m[97m16:04:35 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m16:04:35 [ INFO  ] : Session started!
+[m[93m16:04:36 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: email]
+[m[97m16:04:36 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: email]
+[m[96m16:04:36 [ DEBUG ] : [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: email]Field has been cleared
+[m[93m16:04:36 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: email]
+[m[97m16:04:36 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: email]
+[m[96m16:04:36 [ DEBUG ] : Username entered in the field : 
+[m[96m16:04:36 [ DEBUG ] : Username entered in the field : 
+[m[93m16:04:36 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: password]
+[m[97m16:04:36 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: password]
+[m[96m16:04:36 [ DEBUG ] : [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: password]Field has been cleared
+[m[93m16:04:37 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: password]
+[m[97m16:04:37 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> name: password]
+[m[96m16:04:37 [ DEBUG ] : Password entered in the field : 
+[m[96m16:04:37 [ DEBUG ] : Password entered in the field : 
+[m[93m16:04:37 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> xpath: //input[@value='Login']]
+[m[97m16:04:37 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)] -> xpath: //input[@value='Login']]
+[m[96m16:04:37 [ DEBUG ] : Clicked on the Login button
+[m[96m16:04:37 [ DEBUG ] : Clicked on the Login button
+[m[96m16:04:37 [ DEBUG ] : Login error message captured : 
+[m[97m16:04:37 [ INFO  ] : Ending session...
+[m[97m16:04:37 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (5d484d1932b05133d5c1a7231779eba8)
+[m[97m16:04:37 [ INFO  ] : Closed windows - 1
+[m[97m16:04:37 [ INFO  ] : Session ended!
+[m[97m16:04:37 [ INFO  ] : Starting session...
+[m[97m16:04:38 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.86/chromedriver
+[m[97m16:04:38 [ INFO  ] : ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245) initialized
+[m[97m16:04:38 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m16:04:38 [ INFO  ] : Session started!
+[m[93m16:04:39 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: email]
+[m[97m16:04:39 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: email]
+[m[96m16:04:39 [ DEBUG ] : [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: email]Field has been cleared
+[m[93m16:04:39 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: email]
+[m[97m16:04:39 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: email]
+[m[96m16:04:40 [ DEBUG ] : Username entered in the field : 
+[m[96m16:04:40 [ DEBUG ] : Password entered in the field : 
+[m[93m16:04:40 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: password]
+[m[97m16:04:40 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: password]
+[m[96m16:04:40 [ DEBUG ] : [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: password]Field has been cleared
+[m[93m16:04:40 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: password]
+[m[97m16:04:40 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> name: password]
+[m[96m16:04:40 [ DEBUG ] : Password entered in the field : 
+[m[96m16:04:40 [ DEBUG ] : Password entered in the field : 
+[m[93m16:04:40 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> xpath: //input[@value='Login']]
+[m[97m16:04:40 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (15254baf54dc625e533e1f3952e90245)] -> xpath: //input[@value='Login']]
+[m[96m11:51:57 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m11:51:58 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m11:51:58 [ INFO  ] : ----------------------------------------------------[ Starting Test Execution ]----------------------------------------------------
+[m[97m11:51:58 [ INFO  ] : Test suite instantiated : Mandatory Inclusion
+[m[97m11:51:58 [ INFO  ] : Test suite completed : Mandatory Inclusion
+[m[97m11:51:58 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m11:51:58 [ INFO  ] : Starting session...
+[m[97m11:51:58 [ INFO  ] : Starting session...
+[m[97m11:51:58 [ INFO  ] : Starting session...
+[m[97m11:51:58 [ INFO  ] : Starting session...
+[m[97m11:52:05 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.105/chromedriver
+[m[97m11:52:05 [ INFO  ] : ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340) initialized
+[m[97m11:52:05 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:52:05 [ INFO  ] : Session started!
+[m[97m11:52:05 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.105/chromedriver
+[m[97m11:52:05 [ INFO  ] : ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340) initialized
+[m[97m11:52:05 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:52:05 [ INFO  ] : Session started!
+[m[97m11:52:08 [ INFO  ] : Currently executing test case : testUnsuccessfulLogin
+Test case description : Test that the user is not able to login
+[m[97m11:52:08 [ INFO  ] : Currently executing test case : testLoginTitle
+Test case description : Test that the login title is correct
+[m[97m11:52:08 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.105/chromedriver
+[m[97m11:52:08 [ INFO  ] : ChromeDriver: chrome on linux (30555564dd276e76e165881827546e3f) initialized
+[m[97m11:52:08 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:52:08 [ INFO  ] : Session started!
+[m[93m11:52:08 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: email]
+[m[31m11:52:08 [ ERROR ] : Test failed! Test case : testLoginTitle
+[m[31m11:52:09 [ ERROR ] : Test failed. Screenshot captured - automation_framework_testLoginTitle_Fri_Apr_05_11:52:09_IST_2024.png
+[m[31m11:52:09 [ ERROR ] : Test failed. Screenshot captured - automation_framework_testLoginTitle_Fri_Apr_05_11:52:09_IST_2024.png
+[m[97m11:52:09 [ INFO  ] : Ending session...
+[m[97m11:52:09 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (778287b09cef3434338cdda8733710e6)
+[m[97m11:52:09 [ INFO  ] : Closed windows - 1
+[m[97m11:52:09 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.105/chromedriver
+[m[97m11:52:09 [ INFO  ] : ChromeDriver: chrome on linux (778287b09cef3434338cdda8733710e6) initialized
+[m[97m11:52:09 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:52:09 [ INFO  ] : Session started!
+[m[97m11:52:09 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: email]
+[m[97m11:52:09 [ INFO  ] : Session ended!
+[m[97m11:52:09 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : Test that the user is on Login page
+[m[97m11:52:09 [ INFO  ] : Test skipped! Test case : testUserIsOnLoginPage
+[m[96m11:52:09 [ DEBUG ] : [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: email]Field has been cleared
+[m[93m11:52:09 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: email]
+[m[97m11:52:09 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: email]
+[m[96m11:52:09 [ DEBUG ] : Username entered in the field : 
+[m[96m11:52:09 [ DEBUG ] : Username entered in the field : 
+[m[93m11:52:09 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: password]
+[m[97m11:52:09 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: password]
+[m[97m11:52:09 [ INFO  ] : Currently executing test case : testSuccessfulLogin
+Test case description : Test that the user is able to login
+[m[97m11:52:09 [ INFO  ] : Test skipped! Test case : testSuccessfulLogin
+[m[96m11:52:10 [ DEBUG ] : [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: password]Field has been cleared
+[m[93m11:52:10 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: password]
+[m[97m11:52:10 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> name: password]
+[m[96m11:52:10 [ DEBUG ] : Password entered in the field : 
+[m[96m11:52:10 [ DEBUG ] : Password entered in the field : 
+[m[93m11:52:10 [ WARN  ] : Waiting for element to be clickable - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> xpath: //input[@value='Login']]
+[m[97m11:52:10 [ INFO  ] : Element found - [[ChromeDriver: chrome on linux (e6a72bbf2d7910f7c6c81f4bce7da340)] -> xpath: //input[@value='Login']]
+[m[96m11:52:10 [ DEBUG ] : Clicked on the Login button
+[m[96m11:52:10 [ DEBUG ] : Clicked on the Login button
+[m[96m11:52:10 [ DEBUG ] : Login error message captured : 
+[m[31m11:52:10 [ ERROR ] : Test failed! Test case : testUnsuccessfulLogin
+[m[31m11:52:11 [ ERROR ] : Test failed. Screenshot captured - automation_framework_testUnsuccessfulLogin_Fri_Apr_05_11:52:11_IST_2024.png
+[m[31m11:52:11 [ ERROR ] : Test failed. Screenshot captured - automation_framework_testUnsuccessfulLogin_Fri_Apr_05_11:52:11_IST_2024.png
+[m[97m11:52:11 [ INFO  ] : Test suite completed : sanity Test
+[m[96m11:53:17 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m11:53:17 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m11:53:17 [ INFO  ] : ----------------------------------------------------[ Starting Test Execution ]----------------------------------------------------
+[m[97m11:53:17 [ INFO  ] : Test suite instantiated : Mandatory Inclusion
+[m[97m11:53:17 [ INFO  ] : Test suite completed : Mandatory Inclusion
+[m[97m11:53:18 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m11:53:18 [ INFO  ] : Starting session...
+[m[97m11:53:20 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.105/chromedriver
+[m[97m11:53:20 [ INFO  ] : ChromeDriver: chrome on linux (9c685c2ff360a014ca905d56db17e924) initialized
+[m[97m11:53:20 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:53:20 [ INFO  ] : Session started!
+[m[97m11:53:21 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : Test that the user is on Login page
+[m[97m11:53:21 [ INFO  ] : Test passed! Test case : testUserIsOnLoginPage
+[m[97m11:53:21 [ INFO  ] : Ending session...
+[m[97m11:53:21 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (9c685c2ff360a014ca905d56db17e924)
+[m[97m11:53:21 [ INFO  ] : Closed windows - 1
+[m[97m11:53:21 [ INFO  ] : Session ended!
+[m[97m11:53:21 [ INFO  ] : Test suite completed : sanity Test
+[m[97m11:53:22 [ INFO  ] : ----------------------------------------------------[ Ending Test Execution ]----------------------------------------------------
+[m[96m19:36:47 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m19:36:47 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m19:36:47 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m19:36:47 [ INFO  ] : Starting session...
+[m[97m19:36:47 [ INFO  ] : Starting session...
+[m[97m19:36:47 [ INFO  ] : Starting session...
+[m[97m19:36:47 [ INFO  ] : Starting session...
+[m[97m19:36:50 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m19:36:50 [ INFO  ] : ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641) initialized
+[m[97m19:36:50 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m19:36:50 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m19:36:50 [ INFO  ] : Session started!
+[m[97m19:36:50 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m19:36:50 [ INFO  ] : ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641) initialized
+[m[97m19:36:50 [ INFO  ] : ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641) initialized
+[m[97m19:36:50 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m19:36:50 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m19:36:50 [ INFO  ] : Session started!
+[m[97m19:36:50 [ INFO  ] : Session started!
+[m[97m19:36:50 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m19:36:50 [ INFO  ] : ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641) initialized
+[m[97m19:36:50 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m19:36:50 [ INFO  ] : Session started!
+[m[97m19:36:51 [ INFO  ] : Currently executing test case : testLoginTitle
+Test case description : Test that the login title is correct
+[m[97m19:36:51 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : Test that the user is on Login page
+[m[97m19:36:52 [ INFO  ] : Currently executing test case : testUnsuccessfulLogin
+Test case description : Test that the user is not able to login
+[m[97m19:36:52 [ INFO  ] : Currently executing test case : testSuccessfulLogin
+Test case description : Test that the user is able to login
+[m[97m19:36:52 [ INFO  ] : Test passed! Test case : testUserIsOnLoginPage
+[m[97m19:36:52 [ INFO  ] : Test passed! Test case : testLoginTitle
+[m[93m19:36:52 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641)] -> name: email]
+[m[93m19:36:52 [ WARN  ] : Waiting for element to be visible - [[ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641)] -> name: email]
+[m[97m19:36:52 [ INFO  ] : Ending session...
+[m[97m19:36:52 [ INFO  ] : Ending session...
+[m[97m19:36:52 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641)
+[m[97m19:36:52 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (38bc4a4455b55300e4fb6bb5c7487641)
+[m[97m19:36:52 [ INFO  ] : Closed windows - 1
+[m[97m19:36:52 [ INFO  ] : Closed windows - 1
+[m[97m19:36:52 [ INFO  ] : Session ended!
+[m[31m19:36:52 [ ERROR ] : Test failed! Test case : testSuccessfulLogin
+[m[31m19:36:52 [ ERROR ] : Test failed! Test case : testUnsuccessfulLogin
+[m[31m19:36:52 [ ERROR ] : Error occurred while tearing down - invalid session id
+Build info: version: '4.12.1', revision: '8e34639b11'
+System info: os.name: 'Linux', os.arch: 'amd64', os.version: '6.5.0-27-generic', java.version: '21.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [38bc4a4455b55300e4fb6bb5c7487641, close {}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.105, chrome: {chromedriverVersion: 123.0.6312.122 (31f8248cdd9..., userDataDir: /tmp/.org.chromium.Chromium...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:36237}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: linux, proxy: Proxy(), se:cdp: ws://localhost:36237/devtoo..., se:cdpVersion: 123.0.6312.105, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 38bc4a4455b55300e4fb6bb5c7487641
+[m[97m19:36:52 [ INFO  ] : Session ended!
+[m[31m19:36:52 [ ERROR ] : Test failed! Test case : testUnsuccessfulLogin
+[m[31m19:36:52 [ ERROR ] : Test failed! Test case : testSuccessfulLogin
+[m[97m19:36:52 [ INFO  ] : Test suite completed : sanity Test
+[m[96m09:51:48 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m09:51:48 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m09:51:48 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m09:51:48 [ INFO  ] : Starting session...
+[m[97m09:51:48 [ INFO  ] : Starting session...
+[m[97m09:51:48 [ INFO  ] : Starting session...
+[m[97m09:51:48 [ INFO  ] : Starting session...
+[m[97m09:51:51 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m09:51:51 [ INFO  ] : ChromeDriver: chrome on linux (caba059fbcb115c16baec1f2f8d08383) initialized
+[m[97m09:51:51 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m09:51:51 [ INFO  ] : Session started!
+[m[97m09:51:51 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m09:51:51 [ INFO  ] : ChromeDriver: chrome on linux (b5cb35fa7dca33aa5f3f3dd688890378) initialized
+[m[97m09:51:51 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m09:51:51 [ INFO  ] : Session started!
+[m[97m09:51:51 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m09:51:51 [ INFO  ] : ChromeDriver: chrome on linux (b5cb35fa7dca33aa5f3f3dd688890378) initialized
+[m[97m09:51:51 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m09:51:51 [ INFO  ] : Session started!
+[m[97m09:51:51 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m09:51:51 [ INFO  ] : ChromeDriver: chrome on linux (b5cb35fa7dca33aa5f3f3dd688890378) initialized
+[m[97m09:51:51 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m09:51:51 [ INFO  ] : Session started!
+[m[97m10:03:20 [ INFO  ] : Starting session...
+[m[97m10:03:22 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:03:22 [ INFO  ] : ChromeDriver: chrome on linux (cb22b2c4903a1642888c4362d30f3266) initialized
+[m[97m10:03:22 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:03:22 [ INFO  ] : Session started!
+[m[96m10:10:36 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m10:10:36 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m10:10:36 [ INFO  ] : Test suite instantiated : sanity Test
+[m[96m10:38:49 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m10:38:49 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m10:38:49 [ INFO  ] : Test suite instantiated : sanity Test
+[m[96m10:40:13 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m10:40:13 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m10:40:13 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m10:40:13 [ INFO  ] : Starting session...
+[m[97m10:40:13 [ INFO  ] : Starting session...
+[m[97m10:40:13 [ INFO  ] : Starting session...
+[m[97m10:40:13 [ INFO  ] : Starting session...
+[m[97m10:40:16 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:40:16 [ INFO  ] : ChromeDriver: chrome on linux (83011b2d62d96af71b20aedcde9bd385) initialized
+[m[97m10:40:16 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:40:16 [ INFO  ] : Session started!
+[m[97m10:40:16 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:40:16 [ INFO  ] : ChromeDriver: chrome on linux (83011b2d62d96af71b20aedcde9bd385) initialized
+[m[97m10:40:16 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:40:16 [ INFO  ] : Session started!
+[m[97m10:40:16 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:40:16 [ INFO  ] : ChromeDriver: chrome on linux (83011b2d62d96af71b20aedcde9bd385) initialized
+[m[97m10:40:16 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:40:16 [ INFO  ] : Session started!
+[m[97m10:40:16 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:40:16 [ INFO  ] : ChromeDriver: chrome on linux (83011b2d62d96af71b20aedcde9bd385) initialized
+[m[97m10:40:16 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:40:16 [ INFO  ] : Session started!
+[m[97m10:40:18 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : Test that the user is on Login page
+[m[97m10:40:18 [ INFO  ] : Currently executing test case : testUnsuccessfulLogin
+Test case description : Test that the user is not able to login
+[m[31m10:40:18 [ ERROR ] : Test failed! Test case : testUserIsOnLoginPage
+[m[31m10:40:18 [ ERROR ] : Test failed! Test case : testUnsuccessfulLogin
+[m[96m10:48:34 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m10:48:35 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m10:48:35 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m10:48:35 [ INFO  ] : Starting session...
+[m[97m10:48:38 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:48:38 [ INFO  ] : ChromeDriver: chrome on linux (cedabb2e64f446ef3874bdb25941104e) initialized
+[m[97m10:48:38 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:48:38 [ INFO  ] : Session started!
+[m[97m10:48:39 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : Test that the user is on Login page
+[m[97m10:48:39 [ INFO  ] : Test passed! Test case : testUserIsOnLoginPage
+[m[97m10:48:39 [ INFO  ] : Ending session...
+[m[97m10:48:39 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (cedabb2e64f446ef3874bdb25941104e)
+[m[97m10:48:39 [ INFO  ] : Closed windows - 1
+[m[97m10:48:40 [ INFO  ] : Session ended!
+[m[97m10:48:40 [ INFO  ] : Test suite completed : sanity Test
+[m[96m10:56:57 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m10:56:57 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m10:56:57 [ INFO  ] : ----------------------------------------------------[ Starting Test Execution ]----------------------------------------------------
+[m[97m10:56:57 [ INFO  ] : Test suite instantiated : Mandatory Inclusion
+[m[96m10:57:20 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m10:57:20 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m10:57:20 [ INFO  ] : ----------------------------------------------------[ Starting Test Execution ]----------------------------------------------------
+[m[97m10:57:20 [ INFO  ] : Test suite instantiated : Mandatory Inclusion
+[m[97m10:57:20 [ INFO  ] : Test suite completed : Mandatory Inclusion
+[m[97m10:57:20 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m10:57:20 [ INFO  ] : Starting session...
+[m[97m10:57:20 [ INFO  ] : Starting session...
+[m[97m10:57:20 [ INFO  ] : Starting session...
+[m[97m10:57:20 [ INFO  ] : Starting session...
+[m[97m10:57:23 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:57:23 [ INFO  ] : ChromeDriver: chrome on linux (fc72075d84711890963b166dcb40be43) initialized
+[m[97m10:57:23 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:57:23 [ INFO  ] : Session started!
+[m[97m10:57:23 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:57:23 [ INFO  ] : ChromeDriver: chrome on linux (fc72075d84711890963b166dcb40be43) initialized
+[m[97m10:57:23 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:57:23 [ INFO  ] : Session started!
+[m[97m10:57:23 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:57:23 [ INFO  ] : ChromeDriver: chrome on linux (fc72075d84711890963b166dcb40be43) initialized
+[m[97m10:57:23 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:57:23 [ INFO  ] : Session started!
+[m[97m10:57:23 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m10:57:23 [ INFO  ] : ChromeDriver: chrome on linux (fc72075d84711890963b166dcb40be43) initialized
+[m[97m10:57:23 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m10:57:23 [ INFO  ] : Session started!
+[m[96m11:05:31 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m11:05:31 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m11:05:31 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m11:05:31 [ INFO  ] : Starting session...
+[m[97m11:05:32 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m11:05:32 [ INFO  ] : ChromeDriver: chrome on linux (b472e1e80a0f16810c45fa873b57ac44) initialized
+[m[97m11:05:32 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:05:32 [ INFO  ] : Session started!
+[m[97m11:05:33 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : somethibg
+[m[97m11:05:33 [ INFO  ] : Test skipped! Test case : testUserIsOnLoginPage
+[m[97m11:05:33 [ INFO  ] : Test suite completed : sanity Test
+[m[96m11:06:23 [ DEBUG ] : suiteXmlPath: "/home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml"
+[m[97m11:06:23 [ INFO  ] : [TestNG] Running:
+  /home/abhinavsingh/work/qaTeamProject/forked-automation_framework/src/test/resources/execution/testng.xml
+
+[m[97m11:06:23 [ INFO  ] : Test suite instantiated : sanity Test
+[m[97m11:06:23 [ INFO  ] : Starting session...
+[m[97m11:06:25 [ INFO  ] : /home/abhinavsingh/.cache/selenium/chromedriver/linux64/123.0.6312.122/chromedriver
+[m[97m11:06:25 [ INFO  ] : ChromeDriver: chrome on linux (5ec9e933c5af8f6b8b7921cd1327ccfe) initialized
+[m[97m11:06:25 [ INFO  ] : Launching the browser with driver version - driver version
+[m[97m11:06:25 [ INFO  ] : Session started!
+[m[97m11:06:26 [ INFO  ] : Currently executing test case : testUserIsOnLoginPage
+Test case description : somethibg
+[m[97m11:06:26 [ INFO  ] : Test passed! Test case : testUserIsOnLoginPage
+[m[97m11:06:26 [ INFO  ] : Ending session...
+[m[97m11:06:26 [ INFO  ] : Current driver - ChromeDriver: chrome on linux (5ec9e933c5af8f6b8b7921cd1327ccfe)
+[m[97m11:06:26 [ INFO  ] : Closed windows - 1
+[m[97m11:06:26 [ INFO  ] : Session ended!
+[m[97m11:06:26 [ INFO  ] : Test suite completed : sanity Test
+[m
